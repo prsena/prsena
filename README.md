@@ -18,6 +18,8 @@
 - 💻 **Also love:** Software development and hands-on projects
 - 📚 **Learning next:** More Linux, infrastructure automation & security fundamentals
 - 🌸 **Off-screen:** Manga, anime, games, books & cafe hopping
+ 
+---
 
 ### ⌘ Tech Stack
 
@@ -30,6 +32,8 @@
 ### ☆ Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princess-sena-526156299/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prsena)
+
+---
 
 ### ◈ My GitHub Stats
 
