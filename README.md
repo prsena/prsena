@@ -28,6 +28,23 @@
 ![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-171717?style=flat-square&logo=kotlin&logoColor=white)
 ![C](https://img.shields.io/badge/C-171717?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-171717?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-171717?style=flat-square)
+![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-171717?style=flat-square&logo=mui&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-171717?style=flat-square&logo=jetpackcompose&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-171717?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-171717?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-171717?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-171717?style=flat-square&logo=vite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-171717?style=flat-square&logo=firebase&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-171717?style=flat-square&logo=androidstudio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-171717?style=flat-square&logo=jupyter&logoColor=white)
+
+---
 
 ### ☆ Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princess-sena-526156299/)
